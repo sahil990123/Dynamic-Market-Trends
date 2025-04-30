@@ -1,3 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Medical Device Image</title>
+  <style>
+    body {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      background-color: #f4f4f4;
+      margin: 0;
+    }
+    img {
+      max-width: 90%;
+      height: auto;
+      border: 2px solid #ccc;
+      border-radius: 10px;
+    }
+  </style>
+</head>
+<body>
+  <img src="Sertera-Inline-Image-1.jpg.webp" alt="Sertera Biopsy Device">
+</body>
+</html>
+
+
 <h1>Inside the Booming Breast Biopsy Device Market: Innovation Meets Precision Healthcare.</h1>
 <h2>Japan Breast Biopsy Device Market Size, Share &amp; Trends Analysis Report By Product (Biopsy Needles, Guidance Systems, Biopsy Tables, Localization Wires, Assay Kits, Liquid Biopsy Instruments, Others), By Type (Needle Breast Biopsy, Open Surgical Breast Biopsy, Excisional, Incisional, Liquid Breast Biopsy, Circulating Tumor Cells, Core Needle Biopsy (CNB), Fine Needle Aspiration Biopsy (FNAB), Vacuum-assisted Biopsy (VAB), Circulating Tumor DNA (CtDNA), Other Biomarkers), By Guidance (Image-Guided Biopsy, Mammography-guided Stereotactic Biopsy, Ultrasound-guided Biopsy, MRI-guided Biopsy, Other Guidance Techniques, Liquid Biopsy, NGS-based Biopsy, PCR-based Biopsy, Microarray-based Biopsy), By Application (Early Cancer Screening, Therapy Selection, Treatment Monitoring, Recurrence Monitoring), Japan Economy Insights, Regional Outlook, Growth Potential, Price Trends, Competitive Market Share &amp; Forecast, 2023 - 2031.</h2>
 <h3>Japan Breast Biopsy Device Market size was valued at&nbsp;<strong><u>USD 2.35 Billion in 2022</u></strong>&nbsp;and is projected to reach&nbsp;<strong><u>USD 4.47 Billion by 2031</u></strong>, growing at a&nbsp;<strong><u>CAGR of 7.41%</u></strong>&nbsp;from 2022 to 2031 according to a new report by Intellectual Market Insights Research.</h3>
